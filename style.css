@@ -1,5 +1,5 @@
 body {
-    background-color: skyblue;
+    background-color: rgb(61, 213, 158);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -13,7 +13,7 @@ body {
 
 .recipe {
     width: 300px;
-    border: solid 3px white;
+    border: solid 3px rgb(52, 181, 134);
     text-align: center;
 }
 
@@ -39,6 +39,6 @@ body {
     flex-direction: column;
     justify-content: space-between;
     width: 150px;
-    border: solid 3px white;
+    border: solid 3px rgb(18, 176, 47);
     text-align: center;
 }
